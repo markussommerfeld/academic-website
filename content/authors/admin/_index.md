@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Ez9kEkIAAAAJ&hl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Markus_Sommerfeld
 - icon: github
   icon_pack: fab
   link: https://github.com/markussommerfeld
@@ -61,6 +64,9 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+####
+# add researchgate?!
+####
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
