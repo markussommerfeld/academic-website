@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Markus Sommerfeld
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate of Airborne Wind Energy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Victoria
+  url: "https://www.uvic.ca/research/centres/iesvic/index.php"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Wind Energy
+- Urban Aerial Mobility
+- Drones
+- Entrepreneurship
 
 education:
   courses:
