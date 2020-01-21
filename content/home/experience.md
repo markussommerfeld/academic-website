@@ -42,9 +42,32 @@ date_format = "Jan 2006"
   location = "Yokohama, Japan"
   date_start = "2013-08-01"
   date_end = "2014-01-31"
-  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation."""
+  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation.
 
-##  Responsibilities include: Data acquisition, Data evaluation, Mechanical design
+Responsibilities include:
+
+- Data acquisition
+- Data evaluation
+- Mechanical design
+
+"""
+
+[[experience]]
+  title = "Blop"
+  company = "Bla"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+
+  * Analysing
+  * Modelling
+  * Deploying
+    """
+
+
 
 
 
