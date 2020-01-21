@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Wind Energy
-- Urban Aerial Mobility
 - Drones
+- Urban Aerial Mobility
 - Entrepreneurship
 
 education:
