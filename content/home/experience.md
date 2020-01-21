@@ -33,7 +33,6 @@ date_format = "Jan 2006"
 
 """
 
-
 [[experience]]
   title = "Advance Engineering Internship"
   company = "TÜV Rheinland,  Solar Energy Assessment Center"
@@ -61,10 +60,6 @@ date_format = "Jan 2006"
   date_start = "2012-05-01"
   date_end = "2012-10-31"
   description = """bla bla"""
-
-  * Placeholder
-
-    
 
 
 
