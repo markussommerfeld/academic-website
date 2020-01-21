@@ -90,7 +90,7 @@ address = {street = "9882 Ring Rd", city = "Victoria", region = "BC", postcode =
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.4639716", longitude = "-123.3086963"}
+coordinates = {latitude = "48.461366", longitude = "-123.309777"}
 
 # Directions for visitors to locate you.
 directions = "Enter Engineering Office Wing and take the stairs to Office 225 on Floor 2"
