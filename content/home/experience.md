@@ -32,8 +32,7 @@ date_format = "Jan 2006"
   * Assemble test rig
 
   * Data acquisition
-    
-    """
+
 
 [[experience]]
   title = "Advance Engineering Internship"
