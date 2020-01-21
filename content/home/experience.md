@@ -28,10 +28,10 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Mechanical design
-
   * Assemble test rig
-
   * Data acquisition
+
+"""
 
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Yokohama, Japan"
   date_start = "2013-08-01"
   date_end = "2014-1-31"
-  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation."""
+  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation.
 
   Responsibilities include:
 
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 
   * Mechanical design
 
-    
+"""
 
 [[experience]]
   title = "Advance Engineering Internship"
