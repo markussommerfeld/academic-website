@@ -18,27 +18,59 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
+  title = "Research Assistant"
+  company = "Fraunhofer Institute for Wind Energy Systems *IWES*"
+  company_url = "https://www.iwes.fraunhofer.de/en.html"
+  location = "Bremerhaven, Germany"
+  date_start = "2015-01-01"
+  date_end = "2015-08-30"
+  description = "test bla "
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
+  * Mechanical design
+
+  * Assemble test rig
+
+  * Data acquisition
+    
+    """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Advance Engineering Internship"
+  company = "TÜV Rheinland,  Solar Energy Assessment Center"
+  company_url = "https://www.tuv.com/japan/en/"
+  location = "Yokohama, Japan"
+  date_start = "2013-08-01"
+  date_end = "2014-1-31"
+  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation."""
+
+  Responsibilities include:
+
+  * Data acquisition
+
+  * Data evaluation
+
+  * Mechanical design
+
+    
+
+[[experience]]
+  title = "Advance Engineering Internship"
+  company = "Airbus, Structures Test Center"
+  company_url = "https://www.airbus.com/"
+  location = "Hamburg, Germany"
+  date_start = "2012-05-01"
+  date_end = "2012-10-31"
+  description = """bla bla"""
+
+  * Placeholder
+
+    
+
+
+
+
+
+
 
 +++
