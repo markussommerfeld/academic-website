@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Fraunhofer Institute for Wind Energy Systems *IWES*"
-  company_url = "https://www.iwes.fraunhofer.de/en.html"
+  company = "IWES" #Fraunhofer Institute for Wind Energy Systems
+  company_url = "" #https://www.iwes.fraunhofer.de/en.html
   location = "Bremerhaven, Germany"
   date_start = "2015-01-01"
   date_end = "2015-08-30"
@@ -33,10 +33,12 @@ date_format = "Jan 2006"
 
 """
 
+
+
 [[experience]]
   title = "Advance Engineering Internship"
-  company = "TÜV Rheinland,  Solar Energy Assessment Center"
-  company_url = "https://www.tuv.com/japan/en/"
+  company = "TÜV Rheinland" #,  Solar Energy Assessment Center
+  company_url = "" #https://www.tuv.com/japan/en/
   location = "Yokohama, Japan"
   date_start = "2013-08-01"
   date_end = "2014-1-31"
