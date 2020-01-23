@@ -24,48 +24,29 @@ date_format = "Jan 2006"
   location = "Bremerhaven, Germany"
   date_start = "2015-01-01"
   date_end = "2015-08-30"
-  description = """
-  Responsibilities include:
-
-  * Mechanical design
-  * Assemble test rig
-  * Data acquisition
+  description = """ As a continuation of my Master thesis I worked as part of the BladeMaker project, which increased productivity and quality of wind turbine blade manufacturing.  I designed and commissioned a test bench to determine optimal parameters for automated rotor blade spar caps manufacturing.
 
 """
 
 
 
 [[experience]]
-  title = "Advance Engineering Internship"
-  company = "TÜV Rheinland,  Solar Energy Assessment Center" 
+  title = "Engineering Internship"
+  company = "TÜV Rheinland" 
   company_url = "https://www.tuv.com/japan/en/"
   location = "Yokohama, Japan"
   date_start = "2013-08-01"
   date_end = "2014-01-31"
-  description = """Planning and execution of photovoltaic module certification tests. Conduct solar power plant energy yield assessment as well as develop and deploy a stochastic uncertainty estimation.
-
-Responsibilities include:
-
-- Data acquisition
-- Data evaluation
-- Mechanical design
-
-"""
+  description = """At the Solar Energy Assessment Center I Planned and executed solar panel certification tests. I consulted local customer in the planning process of large scale solar power plants and estimated the annual energy yield as well as its uncertainty. """
 
 [[experience]]
-  title = "Blop"
-  company = "Bla"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-    """
+ title = "Engineering Internship"
+  company = "Airbus (Commercial Aircraft)"
+  company_url = "https://www.airbus.com/careers/our-locations/europe/hamburg.html"
+  location = "Hamburg, Germany"
+  date_start = "2012-05-01"
+  date_end = "2012-10-01"
+  description = """ At the structures test center I planned, executed and analyzed certification tests of various aircraft parts, including A350 CFRP fuselage parts and repair patches as well as the A400M roller system where I also designed the test rig. """
 
 
 
