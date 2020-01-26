@@ -1,6 +1,6 @@
 ---
-title: TEST TEST Talk
-event: Academic Theme Conference
+title: Bla Bla Blub
+event: Academic Test Conference
 event_url: https://example.org
 
 location: Source Themes HQ
