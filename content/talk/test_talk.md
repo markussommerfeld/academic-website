@@ -24,10 +24,10 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [presentation,conference]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -55,8 +55,7 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects ["test project"]
 
 # Enable math on this page?
 math: true
