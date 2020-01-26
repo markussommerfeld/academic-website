@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
  [[experience]]
+  title = "Teaching Assistant"
+  company = "Mechanical Engineering, University of Victoria" 
+  company_url = "https://www.uvic.ca/"
+  location = "Victoria, British Columbia"
+  date_start = "2015-08-01"
+  date_end = "2019-12-30"
+  description = """ During the course of my Phd degree in mechanical engineering I assisted the course instructor in several undergraduate and graduate courses. Among other duties, my responsibilities included organizing, conducting and marking fluid mechanics lab experiments as well as wind energy tutorials. Furthermore, I supervised undergraduate final design projects.
+
+"""
+
+ [[experience]]
   title = "Research Assistant"
   company = "Fraunhofer Institute for Wind Energy Systems IWES" 
   company_url = "https://www.iwes.fraunhofer.de/en.html"
@@ -38,6 +49,8 @@ date_format = "Jan 2006"
   date_start = "2013-08-01"
   date_end = "2014-01-31"
   description = """At the Solar Energy Assessment Center I Planned and executed solar panel certification tests. I consulted local customer in the planning process of large scale solar power plants and estimated the annual energy yield as well as its uncertainty. """
+
+
 
 [[experience]]
  title = "Engineering Internship"
