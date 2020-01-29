@@ -1,6 +1,6 @@
 ---
-title: AWESome potential: Airborne wind energy’s opportunities and challenges
-event: Invited speaker at the Pacific Institute for Climate Solutions hosted this talk 
+title: Example Talk
+event: Academic Theme Conference
 event_url: https://example.org
 
 location: Source Themes HQ
