@@ -1,6 +1,6 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
+title: PICS talk
+event: Invited speaker for the Pacific Institute for Climate Solutions
 event_url: https://example.org
 
 location: Source Themes HQ
@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -41,7 +41,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=UiriQHZMcs0"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
