@@ -1,12 +1,12 @@
 ---
 title: AWESome potential: Airborne wind energy’s opportunities and challenges
-event: Invited speaker at the Pacific Institute for Climate Solutions
-event_url: https://www.youtube.com/watch?v=UiriQHZMcs0
+event: Invited speaker at the Pacific Institute for Climate Solutions hosted this talk 
+event_url: https://example.org
 
 location: Source Themes HQ
 address:
   street: 450 Serra Mall
-  city: Victoria
+  city: Stanford
   region: CA
   postcode: '94305'
   country: United States
@@ -21,16 +21,16 @@ date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2018-03-05T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: 'from youtube'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
@@ -41,7 +41,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=UiriQHZMcs0"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
