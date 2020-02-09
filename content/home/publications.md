@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Airborne Wind Energy, "
+    tag = "AWES"
     category = ""
     publication_type = ""
     exclude_featured = false
