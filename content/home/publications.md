@@ -24,11 +24,21 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "Airborne Wind Energy, "
-    category = ""
-    publication_type = ""
-    exclude_featured = false
+ filter_default = 0
+
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Airborne Wind Energy"
+    tag = "AWES"
+ 
+# [content.filters]
+#    tag = "Airborne Wind Energy "
+#    category = ""
+#    publication_type = ""
+#   exclude_featured = false
 
 [design]
   # Toggle between the various page layout types.
