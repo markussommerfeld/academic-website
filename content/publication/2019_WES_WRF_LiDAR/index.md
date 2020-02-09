@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Frequency of occurrence(a), Weibull fit(b)and difference between the two(c)for the 6-month lidar measurements (top row),6-month OBS model (second row), 6-month NoOBS model (third row) and 12-month NoOBS (bottom row). All data (not filtered by lidardata availability) were used for the WRF data set.
+  caption: 'Frequency of occurrence(a), Weibull fit(b)and difference between the two(c)for the 6-month lidar measurements (top row),6-month OBS model (second row), 6-month NoOBS model (third row) and 12-month NoOBS (bottom row). All data (not filtered by lidardata availability) were used for the WRF data set.'
   focal_point: ""
   preview_only: false
 
