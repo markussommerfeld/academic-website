@@ -70,4 +70,8 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% alert note %}}
 Discover more content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+
+{{% /alert %}}
+
