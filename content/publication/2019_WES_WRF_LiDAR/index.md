@@ -65,5 +65,3 @@ projects: []
 slides: example
 ---
 
-test
-
